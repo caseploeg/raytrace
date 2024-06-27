@@ -33,6 +33,7 @@ CMakeFiles/inOneWeekend.dir/main.cc.o
  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/arm/limits.h
  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/arm/signal.h
  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/arm/types.h
+ /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/assert.h
  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/adjacent_find.h
  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/all_of.h
  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__algorithm/any_of.h
@@ -858,8 +859,12 @@ CMakeFiles/inOneWeekend.dir/main.cc.o
  /Users/caseploeg/raytrace/hittable_list.h
  /Users/caseploeg/raytrace/interval.h
  /Users/caseploeg/raytrace/material.h
+ /Users/caseploeg/raytrace/perlin.h
  /Users/caseploeg/raytrace/ray.h
+ /Users/caseploeg/raytrace/rtw_stb_image.h
  /Users/caseploeg/raytrace/rtweekend.h
  /Users/caseploeg/raytrace/sphere.h
+ /Users/caseploeg/raytrace/stb_image.h
+ /Users/caseploeg/raytrace/texture.h
  /Users/caseploeg/raytrace/vec3.h
 

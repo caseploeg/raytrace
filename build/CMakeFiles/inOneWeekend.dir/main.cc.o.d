@@ -854,4 +854,8 @@ CMakeFiles/inOneWeekend.dir/main.cc.o: /Users/caseploeg/raytrace/main.cc \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__memory/temp_value.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/c++/v1/__split_buffer \
   /Users/caseploeg/raytrace/material.h \
+  /Users/caseploeg/raytrace/texture.h /Users/caseploeg/raytrace/perlin.h \
+  /Users/caseploeg/raytrace/rtw_stb_image.h \
+  /Users/caseploeg/raytrace/stb_image.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk/usr/include/assert.h \
   /Users/caseploeg/raytrace/camera.h /Users/caseploeg/raytrace/sphere.h
