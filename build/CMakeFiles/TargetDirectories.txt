@@ -1,0 +1,3 @@
+/Users/caseploeg/raytrace/build/CMakeFiles/inOneWeekend.dir
+/Users/caseploeg/raytrace/build/CMakeFiles/edit_cache.dir
+/Users/caseploeg/raytrace/build/CMakeFiles/rebuild_cache.dir
