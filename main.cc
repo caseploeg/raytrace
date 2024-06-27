@@ -1,4 +1,6 @@
 #include "rtweekend.h"
+
+#include "bvh.h"
 #include "color.h"
 #include "ray.h"
 #include "hittable.h"
@@ -11,6 +13,7 @@
 #include <iostream>
 
  int main() {
+    int x;
     hittable_list world;
 
     auto ground_material = make_shared<lambertian>(color(0.5, 0.5, 0.5));
@@ -33,7 +36,7 @@
       }
     }
 
-
+    world = hittable_list(make_shared<bvh_node>(world));
 
     camera cam;
 
