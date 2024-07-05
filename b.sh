@@ -1,5 +1,14 @@
+#!/bin/bash
+
+# Build the project
 cmake --build build
-./build/inOneWeekend 5 > image.ppm
+
+# Run the inOneWeekend command with arguments passed to the script
+./build/inOneWeekend "$@" > image.ppm
+
+# Run the a.out program
 ./a.out
-open -g image.png
+
+# Open the generated image
+open image.png
 
